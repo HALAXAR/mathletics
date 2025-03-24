@@ -59,7 +59,8 @@ I follow a structured approach to sharing knowledge on Threads, posting concepts
 
 ## Star History ⭐
 
-[![Star History Chart](https://api.star-history.com/svg?repos=AIinMinutes/Data-Science-IQs&type=Date)](https://star-history.com/#AIinMinutes/Data-Science-IQs&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=raunakgola/mathletics&type=Date)](https://www.star-history.com/#raunakgola/mathletics&Date)
+
 
 ## Contributing 🤝
 Contributions are welcome! If you have suggestions for new questions, additional resources, or improvements to the current answers, feel free to submit a pull request or open an issue.
