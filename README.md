@@ -2,7 +2,6 @@
 
 This repository provides a comprehensive and curated collection of essential data science, analysis, and AI concepts. Covering everything from foundational.
 
-The book based on this repo is currently under development. Check it out here: [AI in Minutes](https://aiinminutes.github.io/content/intro.html).
 
 ## Generative AI 🤖
 
